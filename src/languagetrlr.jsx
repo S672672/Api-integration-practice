@@ -5,7 +5,7 @@ export default function Languagetrlr() {
   const [tolanguage, setToLanguage] = useState("");
   const [fromlanguage, setFromLanguage] = useState("");
 
-  const languageOptions = ["English", "Spanish", "French", "German", "Chinese","Nepali"]; // Add your language options here
+  const languageOptions = ["English", "Spanish", "French", "German", "Chinese","Nepali","Hindi"]; // Add your language options here
 
   return (
     <div className="whole">
